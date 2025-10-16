@@ -1,0 +1,1 @@
+Survio is a user-friendly research service for individuals, businesses and organizations. Create online surveys, collect feedback on multiple channels and get automatically analyzed, real-time results. The data are projected in a variety of reports and customizable dashboards. Build your own free surveys and make the right decisions

@@ -1,0 +1,1 @@
+Smartsupp is an AI-powered customer engagement platform helping online businesses automate support and boost sales through conversations 24/7. Every interaction with your website visitors is an opportunity to grow.

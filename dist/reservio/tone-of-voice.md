@@ -1,0 +1,24 @@
+- Bulgarian (bg): Use formal tone; address the user with formal 'Вие' and corresponding formal verb forms; buttons use infinitive verbs. The names of the plans stay in English: `Free`, `Starter`, `Standard`, `Pro`.
+- Czech (cs): Use formal tone; use 'vykání' (formal second-person plural verbs and pronouns); buttons in infinitive form. The names of the plans stay in English: `Free`, `Starter`, `Standard`, `Pro`.
+- Danish (da): Use informal tone; address with 'du' and 'dig'; buttons in imperative form. Plans: `Free`, `Starter`, `Standard`, `Pro`.
+- Greek (el): Use formal tone; address with formal 'Εσείς' and corresponding formal verb forms; buttons use infinitive verbs. Plans: `Free`, `Starter`, `Standard`, `Pro`.
+- Spanish (es): Use informal tone; address with 'tú', never 'usted'; buttons use infinitive verbs. Plans: `Free`, `Starter`, `Standard`, `Pro`.
+- Estonian (et): Use informal tone (use 'sa', 'sina'); never formal pronouns 'te' or 'teie'; avoid unnecessary verbs; buttons imperative. Plans: `Free`, `Starter`, `Standard`, `Pro`.
+- Finnish (fi): Use informal tone; address with 'sinä' or third person; buttons informal imperative. Plans: `Free`, `Starter`, `Standard`, `Pro`.
+- French (fr): Use formal tone; address with 'vous'; buttons infinitive. Plans: `Free`, `Starter`, `Standard`, `Pro`.
+- Hungarian (hu): Use a formal tone ("Önözés"). Always address the user with the capitalized 'Ön' (singular) or 'Önök' (plural), use third-person conjugation in all verbs and possessive forms, and avoid using second-person conjugation ("tegezés"). All UI buttons must be nouns (not verbs). The names of the plans are always in English: `Free`, `Starter`, `Standard`, `Pro`
+- Italian (it): Use informal tone; address with 'tu'; 2nd person singular also for buttons. Plans: `Free`, `Starter`, `Standard`, `Pro`.
+- Lithuanian (lt): Use informal 2nd-person plural 'jūs, jums, jūsų' (not capitalized); buttons infinitive; quotation marks around product names/apps/plans (e.g., "Reservio"). Plans: `Free`, `Starter`, `Standard`, `Pro`.
+- Latvian (lv): Use informal plural 'jūs' (not capitalized). Plans: `Free`, `Starter`, `Standard`, `Pro`.
+- Dutch (nl): Use informal tone with 'je, jij, jouw'; buttons mostly infinitive verbs. Plans: `Free`, `Starter`, `Standard`, `Pro`.
+- Norwegian Bokmål (nb): Use informal tone; address with 'du, deg'; buttons imperative. Plans: `Free`, `Starter`, `Standard`, `Pro`.
+- Polish (pl): Use informal tone; capitalize 2nd person singular pronouns (e.g., 'Ty'); buttons imperative. Plans: `Free`, `Starter`, `Standard`, `Pro`.
+- Portuguese (pt): Use formal tone; avoid writing 'você' where possible; buttons infinitive. Plans: `Free`, `Starter`, `Standard`, `Pro`.
+- Portuguese Brazil (pt-br): Use informal tone; address with 'você'; buttons infinitive. Plans: `Free`, `Starter`, `Standard`, `Pro`.
+- Romanian (ro): Use formal tone; address with formal 'dumneavoastră'; buttons infinitive. Plans: `Free`, `Starter`, `Standard`, `Pro`.
+- Slovak (sk): Use formal tone; use 'vykanie'; buttons infinitive. Plans: `Free`, `Starter`, `Standard`, `Pro`.
+- Swedish (sv): Use informal tone; address with 'du, dig'; buttons imperative. Plans: `Free`, `Starter`, `Standard`, `Pro`.
+- Croatian (hr): Use formal tone; address with formal 'vi' (lowercase); buttons infinitive. Plans: `Free`, `Starter`, `Standard`, `Pro`.
+- Slovenian (sl): Use formal tone; address with formal 'vi' (lowercase); buttons infinitive. Plans: `Free`, `Starter`, `Standard`, `Pro`.
+- Ukrainian (uk): Use formal tone; address with formal 'ви' (lowercase); buttons infinitive. Plans: `Free`, `Starter`, `Standard`, `Pro`.
+- Vietnamese (vi): Use formal tone; polite formal pronouns (e.g., 'Quý khách'); buttons infinitive. Plans: `Free`, `Starter`, `Standard`, `Pro`.

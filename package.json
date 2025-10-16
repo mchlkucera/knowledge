@@ -1,0 +1,11 @@
+{
+  "name": "knowledge",
+  "version": "0.0.1",
+  "description": "Knowledge base with remark includes",
+  "scripts": {
+    "build": "bun run scripts/build.mts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0"
+  }
+}
